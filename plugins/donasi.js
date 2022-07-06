@@ -10,7 +10,7 @@ let anu = `*â”€â”€â”€â”€â”€Œ DONATE ã€ â”€â
 Hai ðŸ‘‹
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 â”Œã€” Donasi â€¢ Emoney ã€•
-â”œðŸ“ŒSmart: 088217843188
+â”œðŸ“ŒSmart: 082297831227
 â””â”€â”€â”€â”€
 Berapapun donasi kalian akan sangat berarti ðŸ‘
 
