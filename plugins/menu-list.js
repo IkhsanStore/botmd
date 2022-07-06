@@ -414,8 +414,8 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
            hydratedFooterText: wm,
            hydratedButtons: [{
             urlButton: {
-               displayText: 'SOURCE CODE',
-               url: 'https://youtu.be/_HmhBUN7B-4'
+               displayText: 'MY GITHUB',
+               url: 'https://github.com/IkhsanStore'
              }
 
            },
